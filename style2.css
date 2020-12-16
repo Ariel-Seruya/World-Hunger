@@ -1,0 +1,51 @@
+p{
+    font-family: inherit;
+    color: black;
+    font-size: 28px;
+    border: 2px;
+    width:500px;
+    font-style: bold;
+}
+
+img{
+    width: 600px;
+    margin: 10px;
+    
+}
+
+body {
+    background-color: lavender;
+}
+
+nav{
+    background-color: whitesmoke;
+    height: 60px;
+    font-size: 20px;
+    font-style:itlaic;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    font-style: italic;
+    text-align: center;
+}
+li{
+    display: inline;
+    padding: 15px;
+    text-align: center;
+}
+
+a{
+    text-decoration-line: none; 
+}
+
+h1{
+    background-color: black;
+    text-align: center;
+    color: lavender;
+    
+        
+}
